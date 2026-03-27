@@ -37,9 +37,6 @@ When a disruption hits their zone, they get a notification: *"Heavy rain detecte
 
 They never fill a form. They never call anyone. The platform does everything.
 
-> **[DIAGRAM PLACEHOLDER — WORKER JOURNEY]**
-> **Gemini Prompt:** *"Create a clean, minimal user journey flowchart for a delivery worker using an insurance app called GigShield. Show the following steps as connected boxes with arrows: Step 1: 'Worker opens GigShield on WhatsApp or Web App' → Step 2: 'Aadhaar OTP Verification (90 seconds)' → Step 3: 'Links Zepto/Blinkit delivery account' → Step 4: 'Selects weekly coverage tier (₹39 / ₹69 / ₹119)' → Step 5: 'UPI AutoPay set up — Shield is ACTIVE' → Step 6 (separate branch, triggered automatically): 'Disruption detected in worker zone (Rain/AQI/Outage)' → Step 7: 'AI validates claim in 8 minutes' → Step 8: 'UPI payout credited + WhatsApp notification sent'. Style it as a vertical top-to-bottom flow with a clean white background, teal color for normal steps, and orange for the disruption branch. Label it GigShield — Worker Journey."*
-
 ---
 
 ## What We Cover — The 5 Parametric Triggers
